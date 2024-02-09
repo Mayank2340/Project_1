@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+    width: 100%;
+}
+
+.dev {
+    background-color: royalblue;
+    border-bottom-right-radius: 95%;
+}
+
+.parent {
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+
+}
+
+.btn {
+    background-color: green;
+}
+
+.dev2 {
+    background-color: white;
+    padding: 40px;
+}
+
+.h2 {
+    font-family: 'poppinslight';
+    margin-left: 40px;
+}
+
+.simple {
+    text-align: center;
+
+}
+
+.box {
+    box-shadow: 1px 1px 1px 1px;
+}
+
+
+.Domain {
+    text-align: center;
+}
+
+.world {
+    padding: 30px;
+    text-align: center;
+    margin-right: 700px;
+
+}
+
+.child-world {
+    background-color: blue;
+    color: white;
+    height: 260px;
+}
+
+.node {
+    padding: 30px;
+    text-align: center;
+    margin-right: 700px;
+}
+
+.child-node {
+    padding: 30px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -230px;
+}
+
+.domain-row {
+    display: flex;
+    margin: auto;
+}
+
+.uper {
+    padding: 20px;
+    margin: 1%;
+
+}
+
+.uper:hover {
+    background-color: blue;
+
+}
+
+/* .uper-down{ */
+/* background-color: blue;  */
+/* } */
+.uper-low {
+    padding: 20px;
+    margin: 1%;
+}
+
+
+.working {
+    text-align: center;
+
+}
+
+.about {
+    background-image: url('Background.png');
+    margin-left: 40px;
+    background-position: center;
+    padding: 40px;
+}
+
+.contect {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    padding: 30px;
+    /* margin: 5%; */
+}
+
+.map {
+
+    padding: 20px;
+    box-shadow: 1px 1px 12px 4px rgba(0, 0, 0, 0.39);
+    /* gap: 2px; */
+    display: flex;
+    /* margin: 2%; */
+
+}
+
+.label {
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+    text-align: left;
+}
+
+.column {
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    margin-block-start: 50px;
+
+}
+
+.row2 {
+    padding: 50px;
+}
+
+.btn {
+    margin: 50px;
+}
+
+.subplot {
+    background-color: blue;
+
+    width: 100%;
+
+    padding: 50px;
+    text-align: left;
+    color: white;
+}
+
+
+.drone {
+    margin-top: -15%;
+    margin-left: 80%;
+}
